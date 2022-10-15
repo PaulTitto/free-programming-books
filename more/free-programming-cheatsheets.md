@@ -43,6 +43,7 @@
 * [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+* [Terraform](#terraform)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
@@ -182,6 +183,7 @@
 * [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
+* [Jupyter Notebook Cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
@@ -212,6 +214,7 @@
 
 #### jQuery
 
+* [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
@@ -222,6 +225,7 @@
 
 #### Next.js
 
+* [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
 * [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
@@ -233,6 +237,7 @@
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
+* [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
 
 
@@ -282,6 +287,7 @@
 
 ### Perl
 
+* [Perl Cheat Sheet](https://www.pcwdld.com/perl-cheat-sheet) - Hitesh J (HTML)
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
@@ -295,6 +301,7 @@
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
+* [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
 
 
 ### Python
@@ -331,6 +338,7 @@
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
+* [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
 
 
 ### Raspberry Pi
@@ -350,6 +358,7 @@
 
 ### Rust
 
+* [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
@@ -386,9 +395,17 @@
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
 
 
+### Terraform
+
+* [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
+
+
 ### Unit testing
 
+* [Chai CheatSheet](https://devhints.io/chai) - devhints, Rico Santa Cruz (HTML)
+* [Enzyme CheatSheet](https://devhints.io/enzyme) - devhints, Rico Santa Cruz (HTML)
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
+* [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds, et al. (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
 
 
