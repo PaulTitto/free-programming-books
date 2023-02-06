@@ -13,10 +13,12 @@
 * [C++](#cpp)
 * [Dart](#dart)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Engenharia de software](#engenharia-de-software)
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
     * [Outros](#outros)
+* [Fortran](#fortran)
 * [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
@@ -102,18 +104,20 @@
 ### C
 
 * [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML)
+* [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML)
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
 * [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
-* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
+* [Projeto de Algoritmos (em C)](http://www.ime.usp.br/~pf/algoritmos/) - Paulo Feofiloff (HTML)
 
 
 ### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
+* [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -133,6 +137,11 @@
 ### Docker
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
+
+
+### Elixir
+
+* [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
 
 
 ### Engenharia de Software
@@ -162,10 +171,20 @@
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
+### Fortran
+
+* [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF)
+
+
 ### Fundamentos Matemáticos Computacionais
 
+* [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML)
 * [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
+* [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF)
 * [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
+* [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF)
+* [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF)
+* [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF)
 
 
 ### Git
@@ -180,6 +199,7 @@
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
+* [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
@@ -198,13 +218,12 @@
 
 ### Java
 
-* [Desenvolvimento de Aplicações Web em Java e Outras Tecnologias](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases) - David Buzatto (PDF)
-* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Programação Básica em Java](http://professor.unisinos.br/pjaques/material/java_basico.pdf) - Patrícia Jaques Maillard (PDF)
+* [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 
@@ -340,6 +359,7 @@
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
